@@ -3,10 +3,10 @@
  <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="500" height="320" />
 
 ##  Open-Source enthusiast || Coder !!
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 📫 If you want to talk to me feel free to email me at `joy.arya7381@gmail.com`
-- 🙇‍♂️ Languages : `English` `Hindi`
+- 👯 I’m looking to collaborate on open source.<br />
+- 💬 Ask me about ... Anything<br />
+- 📫 If you want to talk to me feel free to email me at `joy.arya7381@gmail.com`<br />
+- 🙇‍♂️ Languages : `English` `Hindi`<br />
 <br />
 <br />
 
@@ -15,9 +15,9 @@
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="AWS" width="30px" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" />
 <a href="https://postman.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" margin ="10px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align ="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <br/>
