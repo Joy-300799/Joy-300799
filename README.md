@@ -1,6 +1,6 @@
 ### Hey, I'm Joy  👋
-<img src="https://komarev.com/ghpvc/?username=rav8657&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="saikatbishal github profil visit" />
- <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="500" height="320" />
+<img src="https://komarev.com/ghpvc/?username=rav8657&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="Joy-300799 GitHub profile visit." />
+ <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="700" height="320" />
 
 ##  Open-Source enthusiast || Coder !!
 - 👯 I’m looking to collaborate on open source.<br />
@@ -22,7 +22,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img align ="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <br/>
 <br/>
----
+
 
 ### Stats 📈
 <table align="center" cellspacing="0" cellpadding="0" border="0">
