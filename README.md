@@ -1,6 +1,6 @@
 ### Hey, I'm Joy  👋
 <img src="https://komarev.com/ghpvc/?username=rav8657&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="Joy-300799 GitHub profile visit." />
- <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="700" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" />
 
 ##  Open-Source enthusiast || Coder !!
 - 👯 I’m looking to collaborate on open source.<br />
@@ -33,9 +33,9 @@
       <a/>
     </td>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+<!--       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-300799&theme=ayu-mirage&layout=compact&hide_border=true" alt="joy's language stats">
-      <a/>
+      <a/> -->
     </td>
    </tr>
   <tr>
