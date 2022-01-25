@@ -37,7 +37,7 @@
     </td>
     <td>
       <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-300799&theme=ayu-mirage&layout=compact&hide_border=true" alt="joy's language stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav8657&theme=ayu-mirage&layout=compact&hide_border=true" alt="sourav's language stats">
       <a/>
     </td>
    </tr>
