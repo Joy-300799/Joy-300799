@@ -32,14 +32,10 @@
    <tr>
     <td>
       <a href="https://github.com/Joy-300799" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api?username=Joy-300799&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="joy's github stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Joy-300799&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Joy's github stats">
       <a/>
     </td>
-    <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-300799&theme=ayu-mirage&layout=compact&hide_border=true" alt="joy's language stats">
-      <a/>
-    </td>
+   <td> <a href="https://still-taiga-23032.herokuapp.com/" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-300799&theme=ayu-mirage&layout=compact&hide_border=true" alt="Joy's language stats"> <a/> </td>
    </tr>
   <tr>
   <tr>
