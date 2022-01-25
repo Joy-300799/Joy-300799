@@ -1,6 +1,7 @@
 ### Hey, I'm Joy  👋
-<img src="https://komarev.com/ghpvc/?username=rav8657&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="Joy-300799 GitHub profile visit." />
- <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" />
+<img src="https://komarev.com/ghpvc/?username=Joy-300799&label=PEOPLE%20VISIT%20THIS%20PROFILE&color=blueviolet&style=flat-square" alt="Joy-300799 GitHub profile visit." />
+ <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" /> <br />
+ 
  <br />
 
 
