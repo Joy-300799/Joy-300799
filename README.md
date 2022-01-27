@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A enthusiastic Backend developer</h3>
-
+<img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" /> <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-300799&label=Profile%20views&color=0e75b6&style=flat" alt="joy-300799" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joy-300799" alt="joy-300799" /></a> </p> -->
 
 - 🔭 I’m currently working on **WhatsApp clone**
 
@@ -21,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/joy-300799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joy-300799" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/joy bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy bhattacharya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/joy bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joy bhattacharya" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/joy-300799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/joy-300799" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/joy-bhattacharya-314540108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joy-bhattacharya-314540108/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/joy_bhattacharya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/joy_bhattacharya/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
