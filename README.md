@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">A enthusiastic Backend developer</h3>
-<img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" /> <br />
+<h3 align="center">An enthusiastic Backend developer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-300799&label=Profile%20views&color=0e75b6&style=flat" alt="joy-300799" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" /> <br />
+<br />
 - 🔭 I’m currently working on **WhatsApp clone**
 
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
