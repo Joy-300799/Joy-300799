@@ -5,6 +5,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" /> <br />
 <br />
+
+
 - 🔭 I’m currently working on **WhatsApp clone**
 
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
@@ -19,6 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UfdZ5-TF-PX20dmdONoroOuy9zg8dTs5/view?usp=sharing](https://drive.google.com/file/d/1UfdZ5-TF-PX20dmdONoroOuy9zg8dTs5/view?usp=sharing)
 
+<h3>Connect with me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/joy-bhattacharya-314540108/" target="_blank">
     <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" target= "_blank">
