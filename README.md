@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joy-bhattacharya-314540108/" target="_blank">
-    <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif">
+    <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50" height="50" target= "_blank">
   <a/>
 </p>
 
