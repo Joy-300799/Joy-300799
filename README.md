@@ -11,17 +11,11 @@
 
 
 - 🔭 I’m currently working on **WhatsApp clone**
-
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
-
 - 👯 I’m looking to collaborate for **more backend projects**
-
 - 🤝 I’m looking for help to **enhance my skills**
-
 - 💬 Ask me about **JavaScript,Backend topics.**
-
 - 📫 How to reach me `joy.arya7381@gmail.com`
-
 - 📄 Know about my experiences
 "[https://drive.google.com/file/d/1UfdZ5-TF-PX20dmdONoroOuy9zg8dTs5/view?usp=sharing](https://drive.google.com/file/d/1UfdZ5-TF-PX20dmdONoroOuy9zg8dTs5/view?usp=sharing)"
 
