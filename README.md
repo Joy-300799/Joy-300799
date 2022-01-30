@@ -5,9 +5,9 @@
         alt="joy-300799" /> </p>
 
 <img align="right" alt="GIF"
-    src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850"
+    src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="1000"
     height="320" /> <br />
-<br />
+<p>&nbsp;<br /></p>
 
 
 - 🔭 I’m currently working on **Some backend projects**
@@ -28,11 +28,11 @@
             src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="50"
             height="50" target="_blank">
         <a />
-        <a href="https://www.instagram.com/mischiefies_joy/" >
+<!--         <a href="https://www.instagram.com/mischiefies_joy/" >
             <img alt=" Linkedin"
             src="https://thumbs.gfycat.com/IncompleteTightDanishswedishfarmdog-size_restricted.gif" width="50"
             height="50" target="_blank">
-        <a />
+        <a /> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
