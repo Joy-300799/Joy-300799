@@ -10,7 +10,7 @@
 <br />
 
 
-- 🔭 I’m currently working on **WhatsApp clone**
+- 🔭 I’m currently working on **Some backend projects**
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
 - 👯 I’m looking to collaborate for **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
@@ -61,10 +61,12 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a> </p>
 
-<p><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-300799&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+<p><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-300799&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 <p> </p>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=joy-300799&show_icons=true&locale=en"
         alt="joy-300799" /></p> <br />
+            
+            [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-300799)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-300799&" alt="joy-300799" /></p>
