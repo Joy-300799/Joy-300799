@@ -64,7 +64,9 @@
 <p><img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy-300799&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
 <p> </p>
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=joy-300799&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=Joy-300799&show_icons=true&locale=en"
         alt="joy-300799" /></p> <br />
             
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-300799&" alt="joy-300799" /></p>
+
+<p align="center"> If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
