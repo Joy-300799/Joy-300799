@@ -67,6 +67,9 @@
         src="https://github-readme-stats.vercel.app/api?username=joy-300799&show_icons=true&locale=en"
         alt="joy-300799" /></p> <br />
             
-            [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-300799)](https://github.com/anuraghazra/github-readme-stats)
+            <p>&nbsp; <img align = "center"
+               src = "https://github-readme-stats.vercel.app/api?username=joy-300799"
+            </p>
+           
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-300799&" alt="joy-300799" /></p>
