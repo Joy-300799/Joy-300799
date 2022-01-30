@@ -5,8 +5,8 @@
         alt="joy-300799" /> </p>
 
 <img align="right" alt="GIF"
-    src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="1000"
-    height="320" /> <br />
+    src="https://i.pinimg.com/originals/4b/1c/51/4b1c51711b920215c3cd654d313195ad.gif" width="500"
+    height="300" /> <br />
 <p>&nbsp;<br /></p>
 
 
