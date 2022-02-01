@@ -5,7 +5,7 @@
         alt="joy-300799" /> </p>
 
 <img align="right" alt="GIF"
-    src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif" width="450"
+    src="https://i.pinimg.com/originals/4b/1c/51/4b1c51711b920215c3cd654d313195ad.gif" width="500"
     height="300" /> <br />
 <p>&nbsp;<br /></p>
 
