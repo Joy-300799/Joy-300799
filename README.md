@@ -10,6 +10,7 @@
     height="300" /> <br />
 <p>&nbsp;<br /></p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Todo App**
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
@@ -70,4 +71,4 @@
             
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-300799&" alt="joy-300799" /></p>
 
-<p align="center"> If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
+<p align="center"><i> If you find my work good, consider giving it a ⭐ to show some ❤️!</i></p>
