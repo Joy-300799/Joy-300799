@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Joy</h1>
-<h3 align="center">An enthusiastic Backend developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist_1f468-200d-1f4bb.png" width="30" height = "30"></h3>
+<!-- <h1 align="center">Hi 👋, I'm Joy</h1>
+<h3 align="center">An enthusiastic Backend developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist_1f468-200d-1f4bb.png" width="30" height = "30"></h3> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Joy+Bhattacharya;An+enthusiast+Backend+developer+&#128526;)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joy-300799&label=Profile%20views&color=0e75b6&style=flat"
         alt="joy-300799" /> </p>
@@ -10,11 +11,11 @@
 <p>&nbsp;<br /></p>
 
 
-- 🔭 I’m currently working on **Some backend projects**
+- 🔭 I’m currently working on **Todo App**
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
 - 👯 I’m looking to collaborate for **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
-- 💬 Ask me about **JavaScript,Backend topics.**
+- 💬 Ask me about **JavaScript,Node.js,MongoDB**
 - 📫 How to reach me `joy.arya7381@gmail.com`
 - 📄 Know about my experiences
 "https://joy-300799.github.io/Joy.github.io/"
