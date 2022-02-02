@@ -6,8 +6,8 @@
         alt="joy-300799" /> </p>
 
 <img align="right" alt="GIF"
-    src="https://i.pinimg.com/originals/4b/1c/51/4b1c51711b920215c3cd654d313195ad.gif" width="500"
-    height="300" /> <br />
+    src="https://i.pinimg.com/originals/4b/1c/51/4b1c51711b920215c3cd654d313195ad.gif" width="400"
+    height="200" /> <br />
 <!-- <p>&nbsp;<br /></p> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
