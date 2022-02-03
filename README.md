@@ -34,6 +34,9 @@
             src="https://aloharag-hi-ny-jp.typepad.com/.a/6a0120a6c95938970b0148c785497f970c-580wi" width="70"
             height="60" target="_blank">
         <a />
+                <a href="https://www.instagram.com/mischiefies_joy/" target="_blank">
+<img alt=" Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40">
+<a/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
