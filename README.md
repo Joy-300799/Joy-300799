@@ -6,8 +6,8 @@
         alt="joy-300799" /> </p>
 
 <img align="right" alt="GIF"
-    src="https://i.pinimg.com/originals/4b/1c/51/4b1c51711b920215c3cd654d313195ad.gif" width="400"
-    height="200" /> <br />
+    src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76116734035004599ddbaf61c02a212fb5ced82343ad&rid=giphy.gif&ct=g" width="500"
+    height="250" /> <br />
 <!-- <p>&nbsp;<br /></p> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
@@ -19,7 +19,6 @@
 - 📫 How to reach me `joy.arya7381@gmail.com`
 - 📄 Know about my experiences
 "https://joy-300799.github.io/Joy.github.io/"
-
 
     <h3><span>Connect with me:</span> </h3>
 
@@ -72,5 +71,6 @@
         alt="joy-300799" /></p> <br />
             
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joy-300799&" alt="joy-300799" /></p>
+                <p><img align = "center" src="https://www.codewars.com/users/joy%20-300799/badges/small"/></p>              
 
 <p align="center"><i> If you find my work good, consider giving it a ⭐ to show some ❤️!</i></p>
