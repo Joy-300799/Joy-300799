@@ -6,12 +6,12 @@
         alt="joy-300799" /> </p>
 
 <img align="right" alt="GIF"
-    src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966" width="400"
+    src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="400"
     height="200" /> <br />
 <!-- <p>&nbsp;<br /></p> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Todo App**
+- 🔭 I’m currently working on **Some Backend Project**
 - 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
 - 👯 I’m looking to collaborate for **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
