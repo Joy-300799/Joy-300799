@@ -11,8 +11,8 @@
 <!-- <p>&nbsp;<br /></p> -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78437&lines=About+me!+&#129321;)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Some Backend Project**
-- 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
+- 🔭 I’m currently working on **Omnicell**
+- 🌱 I’m currently learning **AngularJS, Java, Spring Boot, Hibernate, Typescript**
 - 👯 I’m looking to collaborate for **more backend projects**
 - 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about **JavaScript,Node.js,MongoDB**
